@@ -1,0 +1,10 @@
+﻿  hw3.cpp
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 3\hw3-startercode-vs2015\hw3 - v1.0\hw3-startercode\hw3-startercode\hw3.cpp(879): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 3\hw3-startercode-vs2015\hw3 - v1.0\hw3-startercode\hw3-startercode\hw3.cpp(890): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 3\hw3-startercode-vs2015\hw3 - v1.0\hw3-startercode\hw3-startercode\hw3.cpp(546): warning C4715: 'PhongShading': not all control paths return a value
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw3.vcxproj -> F:\Padhai\USC\USC Studies\CSCI-420 Computer Graphics\Assignment 3\hw3-starterCode-vs2015\HW3 - V1.0\hw3-starterCode\hw3-starterCode\\Bin\Debug\hw3.exe
