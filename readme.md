@@ -1,5 +1,7 @@
 Building a Ray Tracer.
 
+![](Output%20Images/000.jpg)
+
 Step 1: Uniformly send out rays from the camera location. 
 Since the camera does not have to move, assume that its location is (0,0,0). 
 Implemented backwards ray tracing where rays are sent from the camera, one ray per pixel. 
